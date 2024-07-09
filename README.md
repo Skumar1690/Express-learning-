@@ -1,3 +1,3 @@
 # Express-learning-
 Express blog
-# this is basic blog using express framework
+# This is basic blog using express framework
